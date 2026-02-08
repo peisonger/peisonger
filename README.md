@@ -19,5 +19,5 @@
 👩🏻‍💻**Project experience**  
 -일정관리 웹사이트 by <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
 -뷰티 파우치  by <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
--소상공인 맞춤형 마케팅 전략 AI 챗봇 서비스 by <img src="https://img.shields.io/badge/Streamlit-FF4B4B**?style=flat-square&logo=Streamlit&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+-소상공인 맞춤형 마케팅 전략 AI 챗봇 서비스 by <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 -갓생관리 올인원 생산성 플랫폼 by <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
