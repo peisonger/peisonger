@@ -15,8 +15,6 @@
 -숙명여대 소프트웨어학부 학회 APPS 12기 <code>2025.03 ~ Present</code> <br>
 -숙명여대 SW중심대학산학협력프로젝트(SOSP) <code>2026.03 ~ 2026.06</code> <br>
 -한국대학생IT경영학회 KUSITMS 33기 Frontend <code>2026.02 ~ 2026.06</code> <br>
-**finance**<br>
--대학생연합가치투자동아리 SURI <code>2025.09~2026.06</code> 
 
 <h2>🏅Awards</h2>
 -Microsoft 365+Copilot 활용 마케팅 전략대회 우수상 <br>
