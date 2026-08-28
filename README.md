@@ -18,6 +18,7 @@
 -한국대학생IT경영학회 KUSITMS 34기 Frontend <code>2026.08 ~ 2026.12</code> 
 
 <h2>🏅Awards</h2>
+-MOVE AI CHALLENGE 카카오모빌리티 대표이사상 <br>
 -Microsoft 365+Copilot 활용 마케팅 전략대회 우수상 <br>
 -KUSITMS 33th 기업 프로젝트 최우수상 <br>
 -KUSITMS 33th 밋업 프로젝트 최우수상
