@@ -1,6 +1,6 @@
 👋**Hi there!**  
 💻 CS student passionate about frontend development, finance, and data analysis.<br>
-🏦 Interested in building fintech, MTS services.
+🏦 Interested in fintech and mobility.
 
 <h2>💪Stack</h2>
 <p>
